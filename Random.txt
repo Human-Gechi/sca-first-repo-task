@@ -1,2 +1,3 @@
 Random thoughts about open source.
 Linux, terrafrom are examples of an open source software
+Moxilla is also an example of open source too
