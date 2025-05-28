@@ -1,6 +1,6 @@
 # SCA First Repo Task
 
 Welcome to the **SCA OAU Open Source Club**!   
-This repository contains the first onboarding task for all new contributors. It's designed to help you get started with Git, GitHub, and the basics of open source collaboration.
+This repository contains the first task assigned by the lead 
 
 
