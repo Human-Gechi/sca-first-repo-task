@@ -1,0 +1,2 @@
+Random thoughts about open source.
+Linux, terrafrom are examples of an open source software
